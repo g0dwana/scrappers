@@ -24,3 +24,7 @@ source venv/bin/activate
 ```
 python3 kickscrapping.py
 ```
+
+### Run Kick Chat Analyzer
+```
+python3 kick_chat_analyzer.py
