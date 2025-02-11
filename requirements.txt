@@ -1,2 +1,5 @@
 selenium
 schedule
+asyncio
+websockets
+collections
