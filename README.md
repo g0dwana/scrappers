@@ -2,9 +2,9 @@
 KICK Scrapper Examples
 
 
-## Documentation
+## 1.Documentation
 
-### virtual environment installation
+### 1.1 virtual environment installation
 
 ```
 sudo pip3 install virtualenv
@@ -13,24 +13,29 @@ sudo pip3 install virtualenv
 ```
 virtualenv venv
 ```
-### virtual environment activation
+### 1.2 virtual environment activation
 ```
 source venv/bin/activate
 ```
 
 
 
-###  How to run example
+###  1.3 How to run scrapping example
+```
+python3 kickscrapping.py
+```
+## 2.Full guide for kick chat analysis
+###  2.1 How to run scrapping example
 ```
 python3 kickscrapping.py
 ```
 
-### Run Kick Chat Analyzer
+### 2.2 Run Kick Chat Analyzer
 ```
 python3 kick_chat_analyzer.py
 ```
 
-### Run Username and Content Filter
+### 2.3 Run Username and Content Filter
 ```
 python3 name_content_filter.py
 ```
